@@ -2,7 +2,7 @@
   "name": "nodejs-starter",
   "version": "1.0.0",
   "description": "A blank repo with nothing but a linter and formatter configured",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "precommit": "lint-staged"
   },
