@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-starter",
+  "name": "EnergiaFelhő",
   "version": "1.0.0",
-  "description": "A blank repo with nothing but a linter and formatter configured",
+  "description": "Energiaközösségi elszámolási redszer",
   "main": "server.js",
   "scripts": {
     "precommit": "lint-staged"
